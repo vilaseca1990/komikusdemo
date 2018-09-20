@@ -1,0 +1,60 @@
+.fondo-komikustitulo{
+    background:rgba(36, 53, 111, 0.95);
+}
+.body{
+    margin:none;
+}
+.principal-logo {
+    color: white;
+    margin-top: -12px;
+    margin-bottom:20px;
+    font-size: 50px; 
+    text-align: center;
+    font-family: Source Sans Pro;
+}
+.frase-komikus {
+    color: white;
+    margin-top:-21px;
+    font-size: 15px; 
+    text-align: center;
+    font-family: Source Sans Pro;
+}
+img {
+    width: 70%;
+    max-width: 70%;
+    left:50px;
+    
+}
+.texto{
+    text-align:center;
+    color:#24356F;
+    font-family:Source Sans Pro;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 23px;
+    
+}
+.texto-columna1{
+    color:white;
+    background:#24356F;
+    text-align:center;
+    font-family:Source Sans Pro;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.texto-followers{
+    color:#24356F;
+    text-align:center;
+    font-family:Source Sans Pro;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.columna2{
+    padding-top:100px;
+}
+
+
+    
