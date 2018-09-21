@@ -20,10 +20,8 @@
     font-family: Source Sans Pro;
 }
 img {
-    width: 70%;
-    max-width: 70%;
-    left:50px;
-    
+    width: 100%;
+    max-width: 100%;
 }
 .texto{
     text-align:center;
@@ -53,8 +51,10 @@ img {
     font-size: 18px;
 }
 .columna2{
-    padding-top:100px;
+    
 }
-
+.foto-usuario {
+    max-width: 175px;
+}
 
     
